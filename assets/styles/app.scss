@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;600&display=swap");
+@import "drocket/styles.css";
+@import "drocket/framework.scss";
+
+code {
+  font-size: 16px;
+}
+
+div.responsive-table {
+  width: 100%;
+  overflow-x: auto;
+}

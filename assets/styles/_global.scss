@@ -1,0 +1,26 @@
+$colors: (
+    // "primary": #00af67,
+    "green": #068f57,
+    "primary": #ff023e,
+    "blue": #00d3ee,
+    "error":#e30425,
+    "warning": #ffa21a,
+    "purple": #AF2CC5,
+    "secondary": #2c373c,
+    "input": #4f636b,
+    "input-placeholder": #b7b9ba,
+    "input-border": #e3e9eb,
+    "label": #536e7d,
+    "black": #101418,
+    "root-color": #4f636b,
+    "disabled": #b7b9ba,
+    "grey": #737995,
+    "grey--light": #edf1fd,
+    "grey-letter": #717895,
+    "white": white,
+);
+// $e-bar-padding-y: 0px;
+// $btn-border-width: 1px;
+$border-radius-root: 0px;
+
+@import "drocket/setting.scss";
